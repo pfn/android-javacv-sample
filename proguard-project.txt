@@ -1,0 +1,12 @@
+-dontnote **
+-dontwarn cl.eye.**
+-dontwarn sun.misc.Unsafe
+-dontwarn org.bytedeco.javacpp.**
+-dontwarn org.bytedeco.javacv.**
+-dontwarn com.jogamp.**
+-dontwarn java.awt.**
+-dontwarn javax.swing.**
+-dontwarn org.slf4j.**
+-dontwarn org.apache.maven.**
+-dontwarn org.bytedeco.javacpp.tools.BuildMojo
+-dontwarn javax.imageio.**
